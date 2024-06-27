@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/VikParuchuri/marker/data/examples/nougat/switch_transformers.md
